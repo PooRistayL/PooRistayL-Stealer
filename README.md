@@ -40,7 +40,7 @@
 
 - После первого файла запускаем этот `builder.bat`
 
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/YADJV68.jpg"></img></div>
+<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/ItH48sV.jpg"></img></div>
 
                                                        ☞ Pictures
  
