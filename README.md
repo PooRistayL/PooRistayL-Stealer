@@ -1,6 +1,6 @@
 <h1 align="center"> PooRistayL Stealer </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/oNrITvv.jpg"width="420"> </kbd><br><br>
-<p align="center"><a href="https://discord.gg/kTMGr6rf" target="_blank">join discord group</a></p>
+<p align="center"><a href="https://t.me/+Hm0Upv0EzTY0N2U6" target="_blank">Join Telegram Group</a></p>
 
 
 
